@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I am a **Real Time Analyst** with 3 years of experience in the **Fintech sector**, specializing in transforming complex operational and transactional datasets into actionable business intelligence. I bridge the gap between real-time workforce metrics and long-term business strategy by engineering scalable data pipelines and interactive executive dashboards.
+I am a **Real Time Analyst** with 2.5 years of experience in the **Fintech sector**, specializing in transforming complex operational and transactional datasets into actionable business intelligence. I bridge the gap between real-time workforce metrics and long-term business strategy by engineering scalable data pipelines and interactive executive dashboards.
 
 * 🔧 **Technical Stack:** PostgreSQL | Python (Pandas) | Power BI | Advanced Excel (Power Query & DAX)
 * 📈 **Core Expertise:** Real-Time Queue Management, Service Level Agreements (SLAs), Predictive Trend Modeling, and Operational Optimization.
