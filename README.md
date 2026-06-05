@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I’m Chetan Lanjewar
 
-<!--
-**Chetanrl/Chetanrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+I am an experienced **Real Time Analyst** with three years of professional experience within the Fintech sector. I have a strong foundation in data analysis, operational metrics tracking, and business intelligence. I specialize in turning complex datasets into clear, actionable dashboards that drive optimization and strategic decision-making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+* **Data Analytics:** Data Modeling, KPI Tracking, Trend Analysis, Operational Metrics
+* **Databases & Programming:** PostgreSQL, Python (Pandas)
+* **BI & Visualization:** Power BI, Advanced Excel (Power Query, Pivot Tables)
+* **Soft Skills:** Problem-Solving, Team Collaboration, Real-Time Decision Making, Analytical Thinking
+
+---
+
+## 📊 Featured Projects
+* **Hospitality Revenue Insights Dashboard** – An interactive Power BI dashboard tracking core metrics (RevPAR, ADR, Occupancy) and modeling database schemas for strategic hospitality performance optimization.
+* **Superstore Excel Dashboard** – Transforming raw transactional datasets into dynamic, executive-ready visibility tools.
+* **Vrinda Store Annual Report** – End-to-end processing and annual sales analysis mapping out organizational performance metrics.
+
+---
+
+## 📈 Learning & Interests
+* Scalable data architecture and advanced optimization in **PostgreSQL**.
+* Streamlining advanced financial data pipelines using **Python (Pandas)**.
+* Continuous development of advanced interactive modeling frameworks within **Power BI**.
+
+---
+
+## 📫 Contact Me
+* **LinkedIn:** *[linkedin.com/in/chetanlanjewar22]*
+* **GitHub:** github.com/Chetanrl
