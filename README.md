@@ -3,9 +3,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetanlanjewar22)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chetanrl92@gmail.com)
 
-## 💼 About Me
-I am an experienced **Real Time Analyst** with three years of professional experience within the Fintech sector. I have a strong foundation in data analysis, operational metrics tracking, and business intelligence. I specialize in turning complex datasets into clear, actionable dashboards that drive optimization and strategic decision-making.
+## 🚀 About Me
 
+I am a **Real Time Analyst** with 3 years of experience in the **Fintech sector**, specializing in transforming complex operational and transactional datasets into actionable business intelligence. I bridge the gap between real-time workforce metrics and long-term business strategy by engineering scalable data pipelines and interactive executive dashboards.
+
+* **🔧 Technical Stack:** PostgreSQL | Python (Pandas) | Power BI | Advanced Excel (Power Query & DAX)
+* **📈 Core Expertise:** Real-Time Queue Management, Service Level Agreements (SLAs), Predictive Trend Modeling, and Operational Optimization.
+
+*Feel free to explore my repositories below to see my work in action, or connect with me via LinkedIn!*
 ---
 
 ## 🚀 Skills
