@@ -28,5 +28,6 @@ I am an experienced **Real Time Analyst** with three years of professional exper
 ---
 
 ## 📫 Contact Me
-* **LinkedIn:** *linkedin.com/in/chetanlanjewar22*
-* **GitHub:** github.com/Chetanrl
+* **Email:** [chetanrl92@gmail.com](mailto:chetanrl92@gmail.com)
+* **LinkedIn:** [linkedin.com/in/chetanlanjewar22](https://linkedin.com/in/chetanlanjewar22)
+* **GitHub:** [github.com/Chetanrl](https://github.com/Chetanrl)
