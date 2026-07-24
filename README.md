@@ -1,43 +1,83 @@
-# 👋 Hi, I’m Chetan Lanjewar
+# 👋 Hi, I'm Chetan Lanjewar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetanlanjewar22)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chetanrl92@gmail.com)
+### Data Analyst | Real Time Analyst
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetanlanjewar22)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chetanrl)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetanrl92@gmail.com)
+
+I have 2.5+ years of experience in the FinTech industry, where I transform operational and business data into actionable insights. I enjoy building dashboards, automating reporting, analyzing trends, and solving business problems with data.
+
+---
 
 ## 🚀 About Me
 
-## 💼 Real-Time Analyst | Data Analyst
-
-I have 2.5+ years of experience in the FinTech industry, specializing in transforming operational data into actionable insights using SQL, Python, Power BI, and Advanced Excel.
-
-* 🔧 **Technical Stack:** PostgreSQL | Python (Pandas) | Power BI | Advanced Excel (Power Query & DAX)
-* 📈 **Core Expertise:** Real-Time Queue Management, Service Level Agreements (SLAs), Predictive Trend Modeling, and Operational Optimization.
-
-Feel free to explore my repositories below to see my work in action, or connect with me via LinkedIn!
----
-
-## 🚀 Skills
-* **Data Analytics:** Data Modeling, KPI Tracking, Trend Analysis, Operational Metrics
-* **Databases & Programming:** PostgreSQL, Python (Pandas)
-* **BI & Visualization:** Power BI, Advanced Excel (Power Query, Pivot Tables)
-* **Soft Skills:** Problem-Solving, Team Collaboration, Real-Time Decision Making, Analytical Thinking
+- 📊 Real Time Analyst with experience in FinTech
+- 📈 Building interactive Power BI dashboards
+- 🗄️ Writing efficient SQL queries
+- 🐍 Data analysis using Python (Pandas)
+- 📑 Advanced Excel (Power Query, Pivot Tables, Lookup Functions)
+- 🌱 Currently learning Machine Learning & Statistics
 
 ---
 
-## 📊 Featured Projects
-* **Hospitality Revenue Insights Dashboard** – An interactive Power BI dashboard tracking core metrics (RevPAR, ADR, Occupancy) and modeling database schemas for strategic hospitality performance optimization.
-* **Superstore Excel Dashboard** – Transforming raw transactional datasets into dynamic, executive-ready visibility tools.
-* **Vrinda Store Annual Report** – End-to-end processing and annual sales analysis mapping out organizational performance metrics.
+## 🛠️ Tech Stack
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📈 Learning & Interests
-* Scalable data architecture and advanced optimization in **PostgreSQL**.
-* Streamlining advanced financial data pipelines using **Python (Pandas)**.
-* Continuous development of advanced interactive modeling frameworks within **Power BI**.
+## 📂 Featured Projects
+
+### 📊 Hospitality Revenue Dashboard
+Power BI dashboard for hotel revenue analysis using KPIs like ADR, RevPAR, Occupancy and Revenue.
+
+### 🛒 Superstore Sales Dashboard
+Interactive Excel dashboard with Pivot Tables, Power Query and KPI tracking.
+
+### 🏪 Vrinda Store Annual Report
+Sales analysis using Excel with data cleaning, charts and business insights.
+
+### 📈 Customer Service Dashboard
+Operational dashboard analyzing SLA, productivity and workforce metrics.
 
 ---
 
-## 📫 Contact Me
-* **Email:** [chetanrl92@gmail.com](mailto:chetanrl92@gmail.com)
-* **LinkedIn:** [linkedin.com/in/chetanlanjewar22](https://linkedin.com/in/chetanlanjewar22)
-* **GitHub:** [github.com/Chetanrl](https://github.com/Chetanrl)
+## 📜 Certifications
+
+- Advanced Excel
+- Power BI
+- SQL
+- Python
+- Machine Learning
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Chetanrl&theme=github-dark)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chetanrl&theme=github-dark)
+
+---
+
+## 🎯 Currently Learning
+
+- Data Analytics
+- Machine Learning
+- Statistics
+- DAX
+- Data Visualization
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetanlanjewar22)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chetanrl)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetanrl92@gmail.com)
